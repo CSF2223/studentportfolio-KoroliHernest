@@ -90,7 +90,7 @@ body {
     go outside of the viewport) */
 }
 
-.projectsheader {
+.projectsHeader {
     margin: 1.5rem 3rem;
     text-align: center;
     padding: 0.5rem;
@@ -197,3 +197,5 @@ footer {
         width: 25%;
     }
 }
+
+/* aladdin */
